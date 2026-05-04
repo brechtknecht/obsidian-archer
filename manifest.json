@@ -1,0 +1,10 @@
+{
+  "id": "archer",
+  "name": "Archer",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Shoots arrows when you type them.",
+  "author": "Felix Tesche",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
